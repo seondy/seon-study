@@ -1,7 +1,7 @@
 {
   "name": "seon-study",
   "version": "0.1.0",
-  "homepage": "https://seondy.github.io/seon-study",
+  "homepage": "https://seondy.github.io/seon-study/",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
